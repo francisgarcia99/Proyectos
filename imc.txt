@@ -1,0 +1,2 @@
+Nombre: carlos, Peso: 12 kg, Altura: 2 m, IMC: 3, Categoría: Bajo peso
+Nombre: felipe, Peso: 20 kg, Altura: 2.3 m, IMC: 3.7807, Categoría: Bajo peso
